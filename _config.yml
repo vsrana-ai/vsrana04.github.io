@@ -88,6 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A6A4OKoAAAAJ&hl=en"
   email            : "vivekkumar0416@gmail.com"
+  workemail        : "vivek.kumar@unica.it"
   researchgate     : "https://www.researchgate.net/profile/Vivek_Kumar227"
   uri              :
   bitbucket        :
@@ -115,6 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57203288774"
+  dblp             : "https://dblp.org/pid/82/2381-7.html" 
+  publons          : "https://publons.com/researcher/1799316/vivek-kumar/"
+
 
 # Reading Files
 include:
