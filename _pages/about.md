@@ -20,14 +20,7 @@ Research Interests
 - Language Modelling
 - Knowledge Graphs
 
-Research Interests
-------
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Sentiment Analysis
-- Language Modelling
-- Knowledge Graphs
 
-#Header is large font ====== , ------  little font
+#Header is large font ======
+#little font ------  
 
