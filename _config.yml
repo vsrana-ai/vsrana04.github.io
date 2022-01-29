@@ -13,7 +13,7 @@ name                     : &name "Vivek Kumar Singh"
 description              : &description "personal description"
 url                      : "https://vsrana04.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://vsrana04.github.io/"
+repository               : "vsrana04/vsrana04.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
